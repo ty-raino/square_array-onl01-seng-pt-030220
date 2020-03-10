@@ -1,5 +1,5 @@
 def square_array(array)
 number = []
-number.each(* numbers)
+number.each(* array)
 return array
 end
