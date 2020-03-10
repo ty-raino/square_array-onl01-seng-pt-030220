@@ -1,3 +1,5 @@
 def square_array(array)
-numbers.each 
+number = [1, 2, 3]
+number.each do
+end
 end
