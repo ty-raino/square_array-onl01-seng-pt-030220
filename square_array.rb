@@ -1,5 +1,5 @@
 def square_array(array)
-number = []
-number.each(* (number))
-return array
+  myArray = []
+  array.each do |n|
+    myArray << n ** 2
 end
